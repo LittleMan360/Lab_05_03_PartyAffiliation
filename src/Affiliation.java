@@ -40,7 +40,7 @@ public class Affiliation
         System.out.println("Enter your electoral party affiliations first letter");
 
         //Simulated input menu
-        menuChoice = "d";
+        menuChoice = "i";
 
         //process Input
         if (menuChoice.equalsIgnoreCase("D"))
